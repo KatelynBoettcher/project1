@@ -7,3 +7,5 @@ Determine individual Young's modulus of the 1000 samples in the `samples` direct
 Let's make a plan today!
 
 Young's Modulus of a material can be calculated from the slope of the elastic deformation region of a  stress-strain curve. This elastic deformation region is the straight part at the beginning
+
+Noticed that the files have 80, 100, or 120 points. 
